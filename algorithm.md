@@ -26,4 +26,4 @@
 19. if they have a coupon
     20. if bill >= 75
         21. subtract 20 from bill
-22. output bill
+22. output bill 
